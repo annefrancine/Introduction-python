@@ -1,6 +1,6 @@
 # Introduction-python
 
-Cours d'introduction à python dispensé au 4éme année
+Cours d'introduction à python dispensé au 4éme année (ESTIAM : école d'informatique et du numérique)
 
 Agenda :
 
