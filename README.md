@@ -1,6 +1,6 @@
 # Introduction-python
 
-Cours d'introduction à python dispensé au 4éme année (ESTIAM : école d'informatique et du numérique)
+Cours d'introduction à python dispensé au 4éme année (ESTIAM : école d'informatique et du numérique): 2019-2020
 
 Agenda :
 
@@ -11,4 +11,5 @@ Agenda :
 5) Fonctions
 6) Numpy
 7) Pandas
+8) Matplotlib
 
