@@ -1,6 +1,6 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.estiam.education%2F&psig=AOvVaw3jKzynGaCLiGhRMNsVCvi&ust=1602340367212000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDOo6fdp-wCFQAAAAAdAAAAABAD" />
 
-# Introduction-python
+
+# Introduction à python (data science)
 
 Cours d'introduction à python dispensé au 4éme année (ESTIAM : école d'informatique et du numérique): 2019-2020
 
